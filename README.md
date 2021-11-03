@@ -1,6 +1,6 @@
-👋 Hi, I'm Dylan
-〰 Unorthodox Software Developer
-🥞 C++, Javascript, DOM 
+# 👋 Hi, I'm Dylan
+# 〰 Unorthodox Software Developer
+# 🥞 C++, Javascript, DOM 
 
 
 
