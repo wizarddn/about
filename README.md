@@ -4,6 +4,8 @@
 
 
 
-**Freelancing:** Vanilla websites and applications with features like user login, deep payment processing, API, and backend automation.
+## Freelancing
+Vanilla websites and applications with features like user login, deep payment processing, API, and backend automation.
 
-**Interested:** Web dev technologies. MERN stack (MongoDB, Express, React, Node). 
+## Interested
+Web dev technologies. MERN stack (MongoDB, Express, React, Node). 
