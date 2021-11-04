@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dylan
-## ⚡ Unorthodox Software Developer
+## ⚡ Software Developer
 ## 🥞 HTML/CSS, Javascript, C++
 
 
