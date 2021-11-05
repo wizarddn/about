@@ -5,5 +5,5 @@
 
 
 
-#### Freelancing
+#### Freelancing:
  Simple websites and applications with features like user login, deep payment processing, API handling, and backend automation. dylan@normansoftware.io
