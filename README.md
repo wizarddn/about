@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Dylan
 ⚡ Software Developer
-### 🥞 HTML/CSS, Javascript
-### ⛏ Webflow, Wized
+⛏ HTML/CSS, Javascript
+🥞 Webflow, Wized
+📚 C++, Node, React, MongoDB
 
 
 
 #### Freelancing:
- Simple websites and applications with features like user login, deep payment processing, API handling, and backend automation. dylan@normansoftware.io
+ Websites and applications with features like user login, deep payment processing, API handling, and backend automation. dylan@normansoftware.io
