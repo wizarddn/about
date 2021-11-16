@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Dylan
 ⚡ Software Developer
-### ⛏ HTML/CSS, Javascript
-### 🥞 Webflow, Wized
-### 📚 C++, Node, React, MongoDB
+### 📚 Node, React, MongoDB
 
 
 
