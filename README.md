@@ -1,2 +1,3 @@
 # 👋 Hi, I'm Dylan
-www.artificialmario.com
+
+Mechanical/Electrical Contractor studying to pursue a career in Data Engineering
